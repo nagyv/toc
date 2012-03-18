@@ -1,0 +1,10 @@
+{
+  "name": "toc",
+  "fullName": "Table of Contents",
+  "description": "Generate a handy table of contents to any website you are visiting",
+  "author": "Viktor Nagy",
+  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+  "homepage": "http://dev.estisia.com",
+  "icon": "data/toc.png",
+  "version": "1.2"
+}
