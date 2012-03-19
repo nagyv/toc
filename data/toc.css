@@ -1,12 +1,14 @@
 #bikatoc {
     top: 0px;
-    left: 0px;
+    right: 0px;
     height: 100%;
     position: fixed;
     background: #333;
-    box-shadow: inset -5px 0 5px 0px #000;
+    box-shadow: 5px 0px 5px 0px #000 inset;
     width: 150px;
     padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 45px;
     color: #fff;
     z-index: 1000;
     overflow: auto;
@@ -41,5 +43,5 @@
 
 #bikatoc .toc .toc-active {
     background: #336699;
-    box-shadow: inset -5px 0px 10px -5px #000;
+    box-shadow: 5px 0px 10px -5px #000 inset;
 }
