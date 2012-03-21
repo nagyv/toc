@@ -17,6 +17,10 @@
     display: block;
 }
 
+#bikatoc .toc {
+    background-color: inherit;
+    border: none;
+}
 #bikatoc .toc ul {
     margin: 0;
     padding: 0;
